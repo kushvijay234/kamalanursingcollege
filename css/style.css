@@ -63,7 +63,7 @@ margin-left: 94px;
 			/* float: left; */
 			/* text-align: center; */
 			list-style: none;
-			padding: 5px;
+			padding: 0;
 			margin: 0 auto;
 		  }
 .navbar a	{							
@@ -72,7 +72,7 @@ margin-left: 94px;
 	height: 37px;
 	line-height: 40px;
 	margin: 0;
-	padding: 0;
+	padding: 5px;
 	text-align: center;
 	text-decoration: none;
 	text-transform:inherit;

@@ -831,3 +831,15 @@ width: 260px;
 #footer div ul #rss a:hover {
 	background-position: -32px -111px;
 }
+/* eywa code */
+
+
+.row-comm {
+	width: 100%;
+	display: flex;
+}
+
+.col-comm {
+	width: 50%;
+	margin: 10px;
+}
